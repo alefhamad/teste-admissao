@@ -1,0 +1,6 @@
+[submodule "teste-frente-java"]
+	path = teste-frente-java
+	url = git@github.com:alefhamad/teste-frente-java.git
+[submodule "teste-frente-javascript"]
+	path = teste-frente-javascript
+	url = git@github.com:alefhamad/teste-frente-javascript.git
