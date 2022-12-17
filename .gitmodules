@@ -1,6 +1,0 @@
-[submodule "teste-frente-java"]
-	path = teste-frente-java
-	url = .\\teste-frente-java\\
-[submodule "teste-frente-javascript"]
-	path = teste-frente-javascript
-	url = .\\teste-frente-javascript\\
